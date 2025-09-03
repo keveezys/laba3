@@ -79,5 +79,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\second_chel\second_chel.csproj">
+      <Project>{0fd45981-81b7-4459-b18d-10e6909a6cc3}</Project>
+      <Name>second_chel</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

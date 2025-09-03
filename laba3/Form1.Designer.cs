@@ -40,6 +40,7 @@
             this.buttonArtem.TabIndex = 0;
             this.buttonArtem.Text = "Артем";
             this.buttonArtem.UseVisualStyleBackColor = true;
+            this.buttonArtem.Click += new System.EventHandler(this.buttonArtem_Click);
             // 
             // buttonChel
             // 
@@ -49,6 +50,7 @@
             this.buttonChel.TabIndex = 1;
             this.buttonChel.Text = "Чел";
             this.buttonChel.UseVisualStyleBackColor = true;
+            this.buttonChel.Click += new System.EventHandler(this.buttonChel_Click);
             // 
             // Form1
             // 
