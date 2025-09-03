@@ -20,6 +20,7 @@ namespace laba3
         private void buttonChel_Click(object sender, EventArgs e)
         {
             new second_chel.Form1().ShowDialog();
+            
         }
 
         private void buttonArtem_Click(object sender, EventArgs e)

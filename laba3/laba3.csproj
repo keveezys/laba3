@@ -84,6 +84,10 @@
       <Project>{0fd45981-81b7-4459-b18d-10e6909a6cc3}</Project>
       <Name>second_chel</Name>
     </ProjectReference>
+    <ProjectReference Include="..\zadanie_palicha\zadanie_palicha.csproj">
+      <Project>{6b1c305b-a9dd-4c49-997d-2637f41183e6}</Project>
+      <Name>zadanie_palicha</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
