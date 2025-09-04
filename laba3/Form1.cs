@@ -25,7 +25,7 @@ namespace laba3
 
         private void buttonArtem_Click(object sender, EventArgs e)
         {
-            new zadanie_palicha.Form1().ShowDialog();
+            new zadanie.FormStart().ShowDialog();
         }
     }
 }
