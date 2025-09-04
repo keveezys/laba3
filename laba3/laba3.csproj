@@ -67,6 +67,7 @@
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
     </None>
     <None Update="App.config" />
+
   </ItemGroup>
 
 </Project>
